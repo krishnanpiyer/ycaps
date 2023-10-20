@@ -1,3 +1,5 @@
+//you can overwrite this entire file with your v0 component, this is just a placeholder.
+
 import React from 'react';
 
 function TestComponent() {
