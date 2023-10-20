@@ -4,8 +4,8 @@ import React from 'react';
 
 function TestComponent() {
     return (
-    <div class="hidden">
-        <h1>You can't see me but I'm going to be a v0 component.</h1>
+    <div class="text-base">
+        <h1>I'm a placeholder for your v0 Component.  Go to pages/myV0Component.js in github to get started!</h1>
     </div>
     )
 }
